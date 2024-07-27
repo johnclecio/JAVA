@@ -1,6 +1,7 @@
 # JAVA
 Este projeto visa desenvolver um Sistema de Gerenciamento de Biblioteca em Java. A aplicação permitirá o gerenciamento de coleções de livros, cadastro de usuários e controle de empréstimos e devoluções, automatizando tarefas administrativas e facilitando a operação diária da biblioteca.
 
+<<<<<<< HEAD
 ## JAVA INTRODUCTION 
 
 ## PRIMEIRO PROJETO
@@ -25,6 +26,8 @@ Classes e Pacotes: Estruturei o código em pacotes e classes, assegurando uma or
 Reutilização e Extensão: Aproveitei a herança para reutilizar código e sobrescrevi métodos conforme as necessidades específicas das subclasses.
 
 Aplicação Final: Desenvolvi uma nova aplicação como desafio, aplicando os conceitos aprendidos para criar uma solução prática e funcional.
+=======
+
 
 
 # Aplicação de Áudio
